@@ -1,0 +1,72 @@
+---
+name: Bug report 0
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
+When enter current year of 2020, the program returns incorrect retirement age and months and
+time until retirement.  It returns your full retirement age is -1 and -1 months
+and this will be in invalid of -1
+
+**Program**
+wtccjava/CSC256PublicChangeMgmt
+
+**Component**
+full_retirement_age_calculator_app.py
+
+**Error Type**
+Behavioral error
+
+**Severity**
+Severe
+
+**Priority**
+Set by management
+
+**State**
+Open
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Run the program
+2. Enter 2020 for year
+3. Enter 1 for birth month
+.
+.
+. 
+
+**Expected behavior**
+Would like the program to correctly calculate the retirement age for the current year.
+It should be 67 years
+
+**Screenshots**
+**unable to paste a screen shot**
+
+**Desktop (please complete the following information):**
+ PyCharm.  But use Microsoft edge as my browser
+
+**Additional context**
+Add any other context about the problem here.
+
+**Assigned**
+To be assigned
+
+**Defect Type**
+* Function
+
+**Defect Trigger**
+For ODC later.
+One of
+* Review and Inspection Triggers
+* Unit and Function Test Triggers
+* System and Field Test Triggers
+
+**Defect Impact**
+For ODC later.
+One of
+* Usability
+* Performance
