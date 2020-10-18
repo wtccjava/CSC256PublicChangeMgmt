@@ -1,0 +1,43 @@
+---
+name: Feature request
+about: A Feature is a request for new function, and not related to something that
+  must be "fixed."
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+No.  When invalid month or year is entered, give a message saying
+input year or month was invalid and allow user to reenter the month
+or year
+
+**Program**
+wtccjava/CSC256PublicChangeMgmt
+
+**Component**
+full_retirement_age_calculator_app.py
+
+**Describe the solution you'd like**
+Be more user friendly and if an invalid month or year is entered, give
+the user an error message such as "Invalid month enter, please reenter
+birth month 1-12:"
+
+**Describe alternatives you've considered**
+
+
+**Additional context**
+unable to add screen shot
+
+**Priority**
+To be determined
+
+**State**
+Open
+
+**Assigned**
+To be determined
+
+**Cost**
+Development will estimate the various resources required to implement this feature, as well as other observable affects.  Ex. Two man-months of developer time, insignificant increase in disk space, performance goes in the toilet.

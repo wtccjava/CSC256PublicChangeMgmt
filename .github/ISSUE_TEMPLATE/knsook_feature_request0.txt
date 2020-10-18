@@ -1,0 +1,45 @@
+---
+name: Feature request
+about: A Feature is a request for new function, and not related to something that
+  must be "fixed."
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+No.  Would be nice when asking for the birth year and birth month,
+to give the boundary conditions, so for year 1900-current year
+and month 1-12.
+
+**Program**
+wtccjava/CSC256PublicChangeMgmt
+
+**Component**
+full_retirement_age_calculator_app.py
+
+**Describe the solution you'd like**
+Would like it to say:
+
+Social Security Full Retirement Calculator
+Enter the year of birth or <enter> to exit: 1900-current year
+Enter the month of birth (1-12):
+
+**Describe alternatives you've considered**
+
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+
+**Priority**
+To be determined
+
+**State**
+Open
+
+**Assigned**
+to be determined
+
+**Cost**
+Development will estimate the various resources required to implement this feature, as well as other observable affects.  Ex. Two man-months of developer time, insignificant increase in disk space, performance goes in the toilet.
